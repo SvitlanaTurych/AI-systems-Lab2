@@ -1,0 +1,2 @@
+timestamp,algorithm,graph_type,n_nodes,n_edges,start,goal,order,visited,expanded,path_len,time_ms,found
+1792597812.6600192,BFS,Directed Graph,30,39,0,25,asc,25,25,3,10249,True

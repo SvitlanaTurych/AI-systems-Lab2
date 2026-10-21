@@ -1,0 +1,2 @@
+timestamp,algorithm,graph_type,n_nodes,n_edges,start,goal,order,visited,expanded,path_len,time_ms,found
+1792409859.222781,BFS,Mixed Graph,30,76,0,25,asc,27,27,0,2205,False
